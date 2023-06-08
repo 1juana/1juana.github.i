@@ -1,0 +1,14 @@
+.container {
+	display: flex;
+}
+.logo {
+	 width: 400px; height: 400px;
+	 margin-right: 60px;
+
+}
+.logito {
+	 width: 400px;  height: 400px;
+	 margin-left: 60px;
+	 margin: 0; padding: 0; }
+ }
+ 
